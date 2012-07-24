@@ -49,7 +49,7 @@
         <plugin>
           <groupId>net.flexmojos.oss</groupId>
           <artifactId>flexmojos-maven-plugin</artifactId>
-          <version>4.0-SNAPSHOT</version>
+          <version>5.1-beta-SNAPSHOT</version>
           <dependencies>
             <dependency>
               <groupId>com.adobe.flex</groupId>
