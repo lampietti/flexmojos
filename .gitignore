@@ -16,6 +16,7 @@ target/
 *.ec
 
 # Intellij
+.idea
 *.ipr
 *.iml
 *.iws
