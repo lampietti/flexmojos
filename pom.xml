@@ -91,11 +91,6 @@
         <pluginManagement>
             <plugins>
                 <plugin>
-                    <groupId>net.flexmojos.oss</groupId>
-                    <artifactId>flexmojos-maven-plugin</artifactId>
-                    <version>5.1-beta-SNAPSHOT</version>
-                </plugin>
-                <plugin>
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>aspectj-maven-plugin</artifactId>
                     <version>1.4</version>
